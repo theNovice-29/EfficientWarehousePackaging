@@ -9,7 +9,6 @@ Java Development Kit (JDK), version 8 or higher.
 An integrated development environment (IDE) like IntelliJ IDEA, Eclipse, or a simple text editor.
 Basic understanding of compiling and running Java programs from the command line or IDE.
 
-Files inside source code folder -> Source Codes folder
 
 BFDAlgorithm.java - Implements the Best Fit Decreasing Algorithm(Greedy Algorithm 1).
 BruteForceAlgorithm.java - Implements the Brute Force approach.

@@ -20,13 +20,13 @@ Open the terminal or command prompt.
 Navigate to the directory containing the Java files.
 
 
-For the Best Fit Decreasing Algorithm(Greedy Algorithm 1):
-## Copy code:
+## For the Best Fit Decreasing Algorithm(Greedy Algorithm 1):
+Copy code:
 #### `javac BFDAlgorithm.java`
 #### `java BFDAlgorithm`
 
-For the Brute Force approach:
-## Copy code:
+## For the Brute Force approach:
+Copy code:
 #### `javac BruteForceAlgorithm.java`
 #### `java BruteForceAlgorithm`
 

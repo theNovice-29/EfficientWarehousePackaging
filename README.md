@@ -1,20 +1,20 @@
 
 # Efficient Warehouse Packaging Problem using Greedy Approach
 
-Overview
+## Overview
 This README provides instructions on how to compile and run Java programs that implement grredy algorithms and brute force approach algorithm for Efficient Warehouse Packaging Problem. The provided Java codes include two developed Greedy Approach Algorithms and a Brute Force Algorithm
 
-Prerequisites
+# Prerequisites
 Java Development Kit (JDK), version 8 or higher.
 An integrated development environment (IDE) like IntelliJ IDEA, Eclipse, or a simple text editor.
 Basic understanding of compiling and running Java programs from the command line or IDE.
 
 
-BFDAlgorithm.java - Implements the Best Fit Decreasing Algorithm(Greedy Algorithm 1).
-BruteForceAlgorithm.java - Implements the Brute Force approach.
-LPFAlgorithm.java - Implements the Larget Packet First Algorithm(Greedy Algorithm 2).
+#### `BFDAlgorithm.java`     Implements the Best Fit Decreasing Algorithm(Greedy Algorithm 1).
+#### `BruteForceAlgorithm.java` - Implements the Brute Force approach.
+#### `LPFAlgorithm.java` - Implements the Larget Packet First Algorithm(Greedy Algorithm 2).
 
-How to Run the Codes
+# How to Run the Codes
 Using Command Line
 Open the terminal or command prompt.
 Navigate to the directory containing the Java files.
@@ -22,18 +22,18 @@ Navigate to the directory containing the Java files.
 
 For the Best Fit Decreasing Algorithm(Greedy Algorithm 1):
 Copy code:
-javac BFDAlgorithm.java
-java BFDAlgorithm
+#### `javac BFDAlgorithm.java`
+#### `java BFDAlgorithm`
 
 For the Brute Force approach:
 Copy code:
-javac BruteForceAlgorithm.java
-java BruteForceAlgorithm
+#### `javac BruteForceAlgorithm.java`
+#### `java BruteForceAlgorithm`
 
 For the Larget Packet First Algorithm(Greedy Algorithm 2):
 Copy code:
-javac LPFAlgorithm.java
-java LPFAlgorithm
+#### `javac LPFAlgorithm.java`
+#### `java LPFAlgorithm`
 
 Using an IDE
 Open your preferred IDE and import the Java files into a new or existing project.
